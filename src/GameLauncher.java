@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//GitHub Test From My Mac
+
 public class GameLauncher {
 	
 	@SuppressWarnings("resource")
